@@ -1,0 +1,7 @@
+('D:\\#my_code\\Projects\\2020\\kivy\\simpCalc\\assets\\',
+ None,
+ [],
+ 'DATA',
+ [('DejaVuSans.ttf',
+   'D:\\#my_code\\Projects\\2020\\kivy\\simpCalc\\assets\\DejaVuSans.ttf',
+   'DATA')])
